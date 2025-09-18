@@ -47,4 +47,6 @@ Navigating the darknet carries inherent risks. Prioritize security, stay informe
 
 This guide is for educational purposes only. The information provided is to increase awareness and understanding of darknet operations. We do not endorse nor promote any illegal activities. Always comply with applicable laws and regulations in your jurisdiction.
 
-Update:  14 September
+
+
+Update:  18.09.2025 onion 404 fixes
